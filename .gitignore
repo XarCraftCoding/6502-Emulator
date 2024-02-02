@@ -1,0 +1,14 @@
+# Executable Files
+*.exe
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+6502 Emulator.*
+x64/
+CppProperties.json
+.vs/
+
+# Windows Icon
+desktop.ini
